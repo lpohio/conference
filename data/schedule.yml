@@ -1,0 +1,9 @@
+start: 2019-05-31
+weekday_indicies: 5, 6, 7
+events:
+  -
+    start: 2019-05-31 19:30
+    end: 2019-05-31 22:00
+    title: Friday Social
+    content: This is gonna be great
+    category: Seperately Ticketed
