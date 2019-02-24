@@ -13,4 +13,4 @@ update_configs:
           dependency_type: "all"
           update_type: "security:patch"
     default_reviewers:
-      - "jcavoli"
+      - "jimcavoli"
