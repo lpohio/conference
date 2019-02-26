@@ -1,11 +1,20 @@
-<%= partial(:masthead, locals: { image: '/images/home-bg.jpg', title: 'LPO Conference' }) %>
+<%= partial(:masthead, locals: { image: '/images/LP_generic_header.png', title: 'LPO Conference' }) %>
 <div class="container">
   <div class="row">
     <div class="col">
-      <div class="post-preview">
+      <div class="centered post-preview">
         <h2 class="post-title">Join us for the 2019 LPO Conference in Toledo</h2>
-        <h4 class="post-subtitle">Engage with fellow Libertarians, hear from liberty movement leaders, learn about best practices, and discover the latest in how we're working toward a world set free!</h4>
-        <p>Add descriptive text and welcome message here</p>
+        <h4 class="post-subtitle">The Radisson Hotel at The University of Toledo</h4>
+        <h4 class="post-subtitle">Friday, May 31<sup>st</sup> - Sunday, June 2<sup>nd</sup></h4>
+        <p>
+          <a class="btn btn-warning btn-lg" href="<%= data.settings.registration_link %>">Register Now!</a>
+        </p>
+        <hr>
+        <p>
+          Hotel Rooms are available at a discounted group rate:
+          <br>
+          <a class="btn btn-warning" href="/location">See Location Details</a>
+        </p>
       </div>
     </div>
   </div>

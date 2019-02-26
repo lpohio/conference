@@ -33,7 +33,9 @@
 <body>
   <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand" href="/">LPO Conference</a>
+      <a class="navbar-brand" href="/">
+        <img src="/images/state_logo_custom.svg" alt="Libertarian Party of Ohio">
+      </a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menu
         <i class="fas fa-bars"></i>
@@ -54,7 +56,7 @@
             <a class="nav-link" href="/speakers">Speakers</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://lpo.app.rsvpify.com">Register</a>
+            <a class="btn btn-warning nav-link" href="<%= data.settings.registration_link %>">Register</a>
           </li>
         </ul>
       </div>
@@ -87,7 +89,8 @@
               <a href="https://www.lpo.org">
                 <span class="fa-stack fa-lg">
                   <i class="fas fa-circle fa-stack-2x"></i>
-                  <i class="fas fa-desktop fa-stack-1x fa-inverse"></i>
+                  <!-- <i class="fas fa-desktop fa-stack-1x fa-inverse"></i> -->
+                  <img class="fas fa-stack-1x" src="/images/lpo_badge_notext.svg" alt="Libertarian Party of Ohio">
                 </span>
               </a>
             </li>
