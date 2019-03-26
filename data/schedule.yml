@@ -5,34 +5,34 @@ events:
     start: 2019-05-31 19:30
     end: 2019-05-31 22:00
     title: Friday Social
-    content: "TODO: Add description"
+    content: "Network and enjoy fellowship while supporting the Party! Separate charge of $35 added to any package includes light fare and 2 drink tickets."
     category: Seperately Ticketed
   -
     start: 2019-06-01 09:00
     end: 2019-06-01 12:00
     title: Ohio Morning Session
-    content: "TODO: Add description"
+    content: ""
     category: Conference Sessions
   -
     start: 2019-06-01 12:00
     end: 2019-06-01 14:00
     title: Lunch
-    content: "TODO: Add description"
+    content: ""
   -
     start: 2019-06-01 14:00
     end: 2019-06-01 17:00
     title: Issues-Oriented General Session
-    content: "TODO: Add description"
+    content: ""
     category: Conference Sessions
   -
     start: 2019-06-01 18:00
     end: 2019-06-01 21:00
     title: Banquet featuring Presidential Candidates
-    content: "TODO: Add description"
+    content: "A more formal fundraiser and meal, featuring guest speakers including Libertarian Presidential candidates!"
     category: Seperately Ticketed
   -
     start: 2019-06-02 08:00
     end: 2019-06-02 11:00
     title: General Session
-    content: "TODO: Add description"
+    content: ""
     category: Conference Sessions
