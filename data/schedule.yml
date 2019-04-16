@@ -5,34 +5,197 @@ events:
     start: 2019-05-31 19:30
     end: 2019-05-31 22:00
     title: Friday Social
-    content: "Network and enjoy fellowship while supporting the Party! Separate charge of $35 added to any package includes light fare and 2 drink tickets."
-    category: Seperately Ticketed
+    content: "Caper's Pizza Bar<br>2038 S Byrne Rd, Toledo, OH 43614<hr>Network and enjoy fellowship while supporting the Party! Separate charge of $35 added to any package includes light fare and 2 drink tickets."
+    category: Separately Ticketed
   -
     start: 2019-06-01 09:00
-    end: 2019-06-01 12:00
-    title: Ohio Morning Session
+    end: 2019-06-01 09:10
+    title: Call to Order
+    content: "Welcome from Central Committee Chair<br>Welcome from Executive Committee Chair<br>Intro of committee members, officers, directors"
+    category: Conference Sessions
+  -
+    start: 2019-06-01 09:10
+    end: 2019-06-01 09:20
+    title: Current State of the LPO
+    content: "Executive Chair Harold Thomas"
+    category: Conference Sessions
+  -
+    start: 2019-06-01 09:20
+    end: 2019-06-01 09:40
+    title: Migrating to the new CiviCRM from NationBuilder
     content: ""
     category: Conference Sessions
+  -
+    start: 2019-06-01 09:40
+    end: 2019-06-01 10:00
+    title: Ken Sharpe
+    content: "A local Toledo activist who will speak on ballot initiatives such as Sensible Marijuana and the Lake Erie Bill of Rights. Ken will share time with the author and head of the Sensible movement."
+    category: Conference Sessions
+  -
+    start: 2019-06-01 10:00
+    end: 2019-06-01 10:30
+    title: Boomer Shannon, Chief of Staff to Jeff Hewitt
+    content: "Libertarian organizer and campaign strategist since 2005.  Most recently managed Jeff Hewitt’s successful election as County Supervisor, Riverside County California, whom he now serves as Chief of Staff.  He also held leadership roles in many successful statewide initiatives.  He will speak on “Building Successful Campaigns”"
+    category: Featured Speaker
+  -
+    start: 2019-06-01 10:30
+    end: 2019-06-01 10:45
+    title: Morning Break
+    content: ""
+    category: Breaks
+  -
+    start: 2019-06-01 10:45
+    end: 2019-06-01 11:00
+    title: Zach Williams
+    content: "A field organizer based in Cleveland Ohio. Zach has worked on campaigns from local level to US Senate races crisscrossing the country. He will speak on “Door Knocking”"
+    category: Conference Sessions
+  -
+    start: 2019-06-01 11:00
+    end: 2019-06-01 12:00
+    title: Erin Adams, Alternate Regional LNC Rep
+    content: "Erin ran for a seat in the Oklahoma House of Representatives in 2016 and currently serves as the State Chair in Oklahoma. She is the current Region 7 Alternate for the LNC and is a founding member of the Feldman Foundation. Erin is also a ballot access warrior and successfully restored the Libertarian Party in Oklahoma by legislative action. Erin will speak on: “LNC Report” or a campaign/activist presentation TBD"
+    category: Featured Speaker
   -
     start: 2019-06-01 12:00
-    end: 2019-06-01 14:00
+    end: 2019-06-01 12:30
     title: Lunch
     content: ""
+    category: Breaks
   -
-    start: 2019-06-01 14:00
-    end: 2019-06-01 17:00
-    title: Issues-Oriented General Session
+    start: 2019-06-01 12:30
+    end: 2019-06-01 13:00
+    title: Luncheon Keynote Speaker Laura Ebke
+    content: "Originally a member of the Republican Party who described herself as “a conservative libertarian”, Ebke changed her registration to the Libertarian Party in 2016. She was thought to be the first Libertarian member of the officially nonpartisan legislature. Laura survived the primary against two Republicans in 2018 but was narrowly defeated in the General Election. Laura will speak on: “Learning from the Past--How do we help Liberty Win inthe Future.”"
+    category: Featured Speaker
+  -
+    start: 2019-06-01 13:00
+    end: 2019-06-01 13:30
+    title: 2019 Champions of Liberty Awards Presentation
     content: ""
     category: Conference Sessions
   -
+    start: 2019-06-01 13:30
+    end: 2019-06-01 13:50
+    title: Michael Fricke
+    content: "Conference Chair and Portage County Social Media Coordinator. Dr. Fricke is a chemist and the former director of the first medical marijuana testing laboratory to receive approval from Ohio in 2018. He will prepare two presentations and let the audience choose."
+    category: Conference Sessions
+  -
+    start: 2019-06-01 13:50
+    end: 2019-06-01 14:10
+    title: Sarah “Daggers” Stewart
+    content: "Recipient of a health initiative grant from the CDC and previous experience with the military and a DEA Task Force. Her experience with a corrupt government led her to the Libertarian party and speaking out about the drug war and an advocate for sex workers. Here talk is entitled: “When Helping Hurts”."
+    category: Conference Sessions
+  -
+    start: 2019-06-01 14:10
+    end: 2019-06-01 15:00
+    title: Afternoon Break
+    content: ""
+    category: Breaks
+  -
+    start: 2019-06-01 15:15
+    end: 2019-06-01 16:15
+    title: Further Programming
+    content: ""
+    category: Conference Sessions
+  -
+    start: 2019-06-01 16:15
+    end: 2019-06-01 16:45
+    title: Jess Mears
+    content: "LNC Membership Develop. Mngr., and Libertarian activist since 2007, founding Libertarian groups at Univ. of Cincinnati and at the county level and a retirement community.  She ran for Ohio State Senate in 2010 at age 21, was Director of Events for Johnson Weld in 2016, and managed Foxall for Florida in 2018.  She will discuss “What’s Going On“"
+    category: Featured Speaker
+  -
+    start: 2019-06-01 16:45
+    end: 2019-06-01 17:00
+    title: Concluding Remarks
+    content: ""
+    category: Conference Sessions
+  -
+    start: 2019-06-01 17:00
+    end: 2019-06-01 18:00
+    title: Cocktail Hour
+    content: ""
+    category: Breaks
+  -
     start: 2019-06-01 18:00
-    end: 2019-06-01 21:00
-    title: Banquet featuring Presidential Candidates
+    end: 2019-06-01 18:30
+    title: Dinner
     content: "A more formal fundraiser and meal, featuring guest speakers including Libertarian Presidential candidates!"
-    category: Seperately Ticketed
+    category: Separately Ticketed
+  -
+    start: 2019-06-01 18:30
+    end: 2019-06-01 19:00
+    title: Keynote Speaker Larry Sharpe
+    content: ""
+    category: Separately Ticketed
+  -
+    start: 2019-06-01 19:00
+    end: 2019-06-01 19:10
+    title: Conference Chair Michael Fricke
+    content: "Introduction of Presidential Candidates and Ohio against the World"
+    category: Separately Ticketed
+  -
+    start: 2019-06-01 19:10
+    end: 2019-06-01 19:30
+    title: Break
+    content: ""
+    category: Breaks
+  -
+    start: 2019-06-01 19:30
+    end: 2019-06-01 21:00
+    title: Presidential Candidate Speeches
+    content: "Order and Timing TBD on site"
+    category: Separately Ticketed
+  -
+    start: 2019-06-01 21:00
+    end: 2019-06-01 23:00
+    title: Informal Hospitality
+    content: ""
+    category: Breaks
   -
     start: 2019-06-02 08:00
+    end: 2019-06-02 09:00
+    title: Coffee and Open Mic
+    content: "5-minute Rapid Fire Talks – Sign-Up starts from Saturday"
+    category: Conference Sessions
+  -
+    start: 2019-06-02 09:00
+    end: 2019-06-02 09:20
+    title: Caleb Franz
+    content: "Founder and Executive Director of the MilLiberty Initiative, an organization devoted to the proper communication and application of liberty. He is also the host of the MilLiberty Podcast. Caleb will talk about: “Being Pragmatic without losing your principals.”"
+    category: Conference Sessions
+  -
+    start: 2019-06-02 09:20
+    end: 2019-06-02 09:40
+    title: Mike Shipley
+    content: "Mike is a long-time libertarian activist, current Secretary of the Arizona Libertarian Party, founder of Povertarian Libertarians, Chair of Outright Libertarians, and a founding member of the Audacious Caucus. Mike will speak about “Bottom Unity”"
+    category: Featured Speaker
+  -
+    start: 2019-06-02 09:40
+    end: 2019-06-02 10:00
+    title: Joshua Smith
+    content: "Of Antioch, California, Joshua is an At-Large representative of the LNC, former Region 5 Rep   for the Libertarian Party of Washington, and a founding member of Think Liberty. He has announced his candidacy for Mayor of Antioch and for Chair of the Libertarian Party of California. Josh will speak about: “The importance of Legislative Coalitions”"
+    category: Featured Speaker
+  -
+    start: 2019-06-02 10:00
+    end: 2019-06-02 10:15
+    title: Break
+    content: ""
+    category: Breaks
+  -
+    start: 2019-06-02 10:15
     end: 2019-06-02 11:00
-    title: General Session
+    title: Campaign Panel with Boomer Shannon, Erin Adam and others
+    content: ""
+    category: Featured Speaker
+  -
+    start: 2019-06-02 11:00
+    end: 2019-06-02 11:50
+    title: Think Liberty with Laura Ebke, Joshua Smith and Mike Shipley
+    content: ""
+    category: Featured Speaker
+  -
+    start: 2019-06-02 11:50
+    end: 2019-06-02 12:00
+    title: Closing Remarks
     content: ""
     category: Conference Sessions
