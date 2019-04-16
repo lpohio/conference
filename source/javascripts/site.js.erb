@@ -77,12 +77,24 @@
       events: events,
       start: moment('<%= data.schedule.start %>', 'YYYY-MM-DD'),
       end: moment('<%= data.schedule.start %>', 'YYYY-MM-DD').add(<%= data.schedule.weekday_indicies.split(',').size - 1 %>, 'days'),
+      categories: {
+        enable: true
+      },
+      colors: {
+        events: [
+          '#E5C601',
+          '#56565A',
+          '#424242',
+          '#4527A0'
+        ],
+        random: false
+      },
       weekday: {
         timeline: {
-          fromHour: 7,
-          toHour: 23,
-          intervalMinutes: 60,
-          format: 'ha'
+          fromHour: 8,
+          toHour: 22,
+          intervalMinutes: 20,
+          format: 'HH:mm'
         },
         dayline: {
           weekdays: [<%= data.schedule.weekday_indicies %>],
