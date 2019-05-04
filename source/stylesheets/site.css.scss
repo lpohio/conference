@@ -432,4 +432,8 @@ footer {
 
 .speaker-profile {
   text-align: center;
+
+  &.drop-top {
+    padding-top: 100px;
+  }
 }
